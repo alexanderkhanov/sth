@@ -1,2 +1,4 @@
 # sth
-probabilistic appraisal of underdetermined models
+Probabilistic appraisal of underdetermined models:
+
+https://arxiv.org/abs/1612.07787
