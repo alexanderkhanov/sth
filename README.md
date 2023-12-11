@@ -12,6 +12,6 @@ gmake all
 The model is described in eval.h, it takes npar inputs par
 and calculates nres measurables res.
 
-Starting from random initial set of parameters par, the model
-tries to converge to a point where res are close to values defined
-in resval.h .
+Starting from random initial set of parameters par, the minimizer
+(minimizer.h) tries to converge to a point where res are close
+to values defined in resval.h .
